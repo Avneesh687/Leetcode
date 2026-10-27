@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3731-find-missing-elements](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1260-shift-2d-grid) |
+| [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
