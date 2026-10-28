@@ -20,6 +20,7 @@
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3731-find-missing-elements](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +133,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0090-subsets-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,6 +188,7 @@
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
