@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -186,6 +188,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
 | [1260-shift-2d-grid](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
