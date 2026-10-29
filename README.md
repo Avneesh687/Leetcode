@@ -16,6 +16,7 @@
 | [1288-remove-covered-intervals](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## String
 |  |
@@ -211,4 +213,24 @@
 | [0098-validate-binary-search-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
