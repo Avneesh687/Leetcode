@@ -181,6 +181,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +209,7 @@
 | ------- |
 | [0767-reorganize-string](https://github.com/Avneesh687/Leetcode/tree/master/0767-reorganize-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -244,4 +247,8 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
