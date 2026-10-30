@@ -11,6 +11,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -101,6 +102,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0217-contains-duplicate) |
+| [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/Avneesh687/Leetcode/tree/master/0767-reorganize-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -142,6 +144,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Enumeration
 |  |
@@ -151,6 +154,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -182,6 +186,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0767-reorganize-string](https://github.com/Avneesh687/Leetcode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
