@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Avneesh687/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Avneesh687/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -251,4 +253,8 @@
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Avneesh687/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
