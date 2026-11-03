@@ -75,6 +75,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -97,6 +98,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
@@ -108,6 +110,7 @@
 | [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3665-twisted-mirror-path-count](https://github.com/Avneesh687/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
@@ -223,6 +226,7 @@
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/Avneesh687/Leetcode/tree/master/0767-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Counting Sort
@@ -244,6 +248,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
@@ -265,6 +270,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
