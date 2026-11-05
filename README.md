@@ -111,6 +111,7 @@
 | [0070-climbing-stairs](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Avneesh687/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3665-twisted-mirror-path-count](https://github.com/Avneesh687/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Avneesh687/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
@@ -250,6 +251,7 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Avneesh687/Leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Avneesh687/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
@@ -271,9 +273,18 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Avneesh687/Leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Avneesh687/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Avneesh687/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Avneesh687/Leetcode/tree/master/0062-unique-paths) |
+## Topological Sort
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Avneesh687/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Avneesh687/Leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
