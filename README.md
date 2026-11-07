@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Avneesh687/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Avneesh687/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Avneesh687/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -118,6 +119,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Avneesh687/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Avneesh687/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0611-valid-triangle-number](https://github.com/Avneesh687/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -137,6 +139,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Avneesh687/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -196,6 +199,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Avneesh687/Leetcode/tree/master/0049-group-anagrams) |
 | [0316-remove-duplicate-letters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0767-reorganize-string](https://github.com/Avneesh687/Leetcode/tree/master/0767-reorganize-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Avneesh-Sharma11/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
